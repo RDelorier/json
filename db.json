@@ -1,3 +1,4 @@
 {
-  "test": ["foo", "bar"]
+  "test": ["foo", "bar"],
+  "foo": ["bar", "baz"]
 }
